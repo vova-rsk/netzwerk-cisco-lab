@@ -1,0 +1,22 @@
+vlan 10
+name ADMIN
+Exit
+
+vlan 20
+name FINANCE
+exit
+
+vlan 30 
+name IT
+Exit
+
+vlan 50
+name GUEST
+Exit
+
+vlan 99 
+name MANAGEMENT
+
+vlan 40 
+name SERVERS
+exit
